@@ -2,6 +2,9 @@
 
 jediné po čem prahne ondřek
 
+- [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Matro na maturitu](https://github.com/SPSOAFM-IT18/maturita)
+
 ## Kompilace do PDF
 
 ```
