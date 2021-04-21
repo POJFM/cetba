@@ -60,3 +60,5 @@ Příběh se odehrává v průběhu první světové války. Na začátku knihy 
 - Pepíček Nový a jiné povídky (1921)
 - Velitelem města Bugulmy (1921)
 - Mírová konference a jiné humoresky (1922)
+- Dobrý voják Švejk před válkou a jiné podivné historky (1922)
+- Osudy dobrého vojáka Švejka za světové války (1921–1923)
