@@ -1,16 +1,7 @@
 # Maturitní četba
 
-jediné po čem prahne ondřek
-
-- [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Matro na maturitu](https://github.com/SPSOAFM-IT18/maturita)
-
-## Kompilace do PDF
-
-```
-$ yay -S pandoc
-$ pandoc 00-vzor.md -o vzor.pdf
-```
+Kompletní maturitní četba.   
+__Dodržujte jmenné konvence a strukturu složek__
 
 ## Kompletní seznam
 
@@ -76,3 +67,15 @@ $ pandoc 00-vzor.md -o vzor.pdf
 | 58     | Lustig Arnošt              | Modlitba pro Kateřinu Horowitzovou                                                                          |
 | 59     | Havel Václav               | Audience                                                                                                    |
 | 60     | Viewegh Michal             | Báječná léta pod psa                                                                                        |
+
+
+### Kompilace do PDF
+
+```
+$ yay -S pandoc
+$ pandoc 00-vzor.md -o vzor.pdf
+```
+
+### Contributions:
+- [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Matro na maturitu](https://github.com/SPSOAFM-IT18/maturita)
