@@ -1,6 +1,7 @@
 # Maturitní četba
 
 Kompletní maturitní četba.   
+Jak přispět? ⤵
 __Dodržujte jmenné konvence a strukturu složek__
 
 ## Kompletní seznam
@@ -77,5 +78,6 @@ $ pandoc 00-vzor.md -o vzor.pdf
 ```
 
 ### Contributions:
+- `kniha.md` nahrajte do příslusné složky, na konec názvu souboru doplňte current id, například: `46-svejk-02.md` 
 - [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Matro na maturitu](https://github.com/SPSOAFM-IT18/maturita)
