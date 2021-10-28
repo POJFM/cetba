@@ -35,24 +35,24 @@ __Dodržujte jmenné konvence a strukturu složek__
 | 26     | Čech Svatopluk             | Nový epochální výlet páně Broučka, tentokráte do 15. století                                                |
 | 27     | Mrštíkové Alois a Vilém    | Maryša                                                                                                      |
 | 28     | Apollinaire                | Alkoholy                                                                                                    |
-| 29     | Remarque Erich Maria       | [Na západní frontě klid](https://github.com/SPSOAFM-IT18/cetba/blob/main/29-na-zapadni-fronte-klid.md)      |
+| 29     | Remarque Erich Maria       | [Na západní frontě klid](https://github.com/SPSOAFM-IT18/cetba/blob/main/29-za-zapadni-fronte-klid/29-na-zapadni-fronte-klid.md)      |
 | 30     | Hemingway Ernest           | Komu zvoní hrana                                                                                            |
 | 31     | Rolland Romain             | Petr a Lucie                                                                                                |
-| 32     | Exupéry Antoine de Saint   | [Malý princ](https://github.com/SPSOAFM-IT18/cetba/blob/main/32-maly-princ.md)                              |
+| 32     | Exupéry Antoine de Saint   | [Malý princ](https://github.com/SPSOAFM-IT18/cetba/blob/main/32-maly-princ/32-maly-princ.md)                              |
 | 33     | Steinbeck John             | O myších a lidech                                                                                           |
 | 34     | Tolkien John Ronald Reuel  | [Pán prstenu](https://github.com/SPSOAFM-IT18/cetba/blob/main/34-pan-prstenu.md)                            |
 | 35     | Bradbury Ray               | 451° Fahrenheita                                                                                            |
-| 36     | Orwell George              | [Farma zvířat](https://github.com/SPSOAFM-IT18/cetba/blob/main/36-farma-zvirat.md)                          |
+| 36     | Orwell George              | [Farma zvířat](https://github.com/SPSOAFM-IT18/cetba/blob/main/36-farma-zvirat/36-farma-zvirat.md)                          |
 | 37     | Golding William            | Pán much                                                                                                    |
 | 38     | Solženicyn Alexandr        | Jeden den Ivana Děnisoviče                                                                                  |
 | 39     | Merle Robert               | Smrt je mým řemeslem                                                                                        |
 | 40     | Gellner František          | Po nás ať přijde potopa                                                                                     |
 | 41     | Jirásek Alois              | Lucerna                                                                                                     |
-| 42     | Dyk Viktor                 | [Krysař](https://github.com/SPSOAFM-IT18/cetba/blob/main/42-krysar.md)                                      |
+| 42     | Dyk Viktor                 | [Krysař](https://github.com/SPSOAFM-IT18/cetba/blob/main/42-krysar/42-krysar.md)                                      |
 | 43     | Bezruč Petr                | Slezské písně                                                                                               |
 | 44     | Čapek Karel                | Bílá nemoc                                                                                                  |
 | 45     | Čapek Karel                | Povídky z jedné kapsy                                                                                       |
-| 46     | Hašek Jaroslav             | [Osudy dobrého vojáka Švejka za světové války](https://github.com/SPSOAFM-IT18/cetba/blob/main/46-svejk.md) |
+| 46     | Hašek Jaroslav             | [Osudy dobrého vojáka Švejka za světové války](https://github.com/SPSOAFM-IT18/cetba/blob/main/46-osudy-dobreho-vojaka-svejka-za-svetove-valky/46-svejk.md) |
 | 47     | Seifert Jaroslav           | Jablko z klína                                                                                              |
 | 48     | Poláček Karel              | Bylo nás pět                                                                                                |
 | 49     | Havlíček Jaroslav          | Petrolejové lampy                                                                                           |
