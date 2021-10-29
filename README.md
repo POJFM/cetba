@@ -1,7 +1,6 @@
 # Maturitní četba
 
-Kompletní maturitní četba.   
-Jak přispět? ⤵  
+Kompletní maturitní četba.  
 __Dodržujte jmenné konvence a strukturu složek.__
 
 ## Kompletní seznam
