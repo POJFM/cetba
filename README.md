@@ -76,6 +76,10 @@ $ yay -S pandoc
 $ pandoc 00-vzor.md -o vzor.pdf
 ```
 
+#### Windows users
+- [install pandoc directly from `.zip` file](https://github.com/jgm/pandoc/releases/tag/2.16)
+- [convert md with online converter](https://cloudconvert.com/md-to-docx)
+
 ### Contributions:
 - `kniha.md` nahrajte do příslusné složky, na konec názvu souboru doplňte `current id` (pořadové číslo)   
   * například: `46-svejk-02.md` 
