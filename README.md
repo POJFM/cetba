@@ -3,6 +3,8 @@
 Kompletní maturitní četba.  
 __Dodržujte jmenné konvence a strukturu složek.__
 
+- [Jak na rozbor uměleckého a neuměleckého textu](https://github.com/tenhobi/maturita-sps-cl/blob/master/cesky-jazyk/_tabulka-jak-na.md)
+
 ## Kompletní seznam
 
 | **ID** | **Autor**                  | **Dílo**                                                                                                                         |
