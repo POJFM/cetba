@@ -70,6 +70,7 @@ __Dodržujte jmenné konvence a strukturu složek.__
 | 59     | Havel Václav               | Audience                                                                                                                         |
 | 60     | Viewegh Michal             | [Báječná léta pod psa](https://github.com/POJFM/cetba/tree/main/60-bajecna-leta-pod-psa)                                         |
 
+Tool pro generaci tabulky - [mdtablegen](https://github.com/TassiloBalbo/mdtablegen)
 
 ### Kompilace do PDF
 
