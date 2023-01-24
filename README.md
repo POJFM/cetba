@@ -80,6 +80,10 @@ $ pandoc 00-vzor.md -o vzor.pdf
 ```
 
 #### Windows users
+```
+$ scoop install pandoc latex
+$ pandoc 00-vzor.md -o vzor.pdf
+```
 - [install pandoc directly from `.zip` file](https://github.com/jgm/pandoc/releases/tag/2.16)
 - [convert md with online converter](https://cloudconvert.com/md-to-docx)
 
